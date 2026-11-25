@@ -31,6 +31,10 @@ My C++ solutions to the problems of Dr. Mohamed Abu-Hadhoud's "Algorithms & Prob
 | 23 | Circle area around a triangle | geometry |
 | 24 | Validate age in range 18-45 | boolean validation |
 | 25 | Read until age is in range | do-while, validation loop |
+| 26 | Print range from 1 to N | while, do-while, for loops |
+| 27 | Print range from N to 1 | while, do-while, for loops |
+
+Note: files 28-30 are uploaded as empty placeholders for now.
 
 ## How to run
 
