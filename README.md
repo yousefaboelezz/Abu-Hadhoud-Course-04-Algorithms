@@ -35,6 +35,6 @@ My C++ solutions to the problems of Dr. Mohamed Abu-Hadhoud's "Algorithms & Prob
 ## How to run
 
 ```
-g++ "Problem #1.cpp" -o problem1
+g++ "Problem 01 - Print Name.cpp" -o problem1
 ./problem1
 ```
